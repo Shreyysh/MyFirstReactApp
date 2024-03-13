@@ -1,0 +1,31 @@
+.container {
+    background-color: hsl(254, 18%, 82%);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 1px solid grey;
+    border-radius: 10px;
+    box-shadow: 3px 3px 8px black;
+    max-width: 250px;
+    padding: 30px 10px 10px 10px ;
+    min-width: 400px;
+    margin: 50px auto;
+}
+
+.container img {
+    height: 75px;
+    width: 75px;
+    border-radius: 50px;
+}
+
+h2 {
+    font-family:'Times New Roman', Times, serif;
+    margin-bottom: 10px;
+    font-size: 30px;
+}
+p {
+   text-align: center;
+   margin-top: 0;
+   font-family: cursive;
+   font-size: 20px;
+}

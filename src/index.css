@@ -1,0 +1,10 @@
+body {
+    margin: 25px 80px 25px 80px;
+    background-color: #5b536d;
+}
+
+.fixingdisplay {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
